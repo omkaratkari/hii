@@ -1,7 +1,8 @@
 # hii
 its my github
 <br>
-auther  me
+auther  :Omkar Atkari
+
 
 
 
